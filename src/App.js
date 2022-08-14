@@ -1,5 +1,5 @@
 import styles from './style';
-import { Navbar } from './components';
+import { Navbar, Hero } from './components';
 
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">
@@ -11,8 +11,7 @@ const App = () => (
 
     <div className={`bg-primary ${styles.flexStart}`}>
       <div className={`${styles.boxWidth}`}>
-        Hero
-        {/* <Hero /> */}
+        <Hero />
       </div>
     </div>
 
