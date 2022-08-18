@@ -1,6 +1,7 @@
+import { AnimationOnScroll } from 'react-animation-on-scroll';
+//importing photos
 import { apple, bill, google } from "../assets";
 import styles, { layout } from "../style";
-import { AnimationOnScroll } from 'react-animation-on-scroll';
 
 const Billing = () => (
     <AnimationOnScroll animateIn="animate__fadeIn" duration={5}>
@@ -24,7 +25,7 @@ const Billing = () => (
                     Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio
                     aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea
                     placerat.
-             </p>
+                </p>
 
                 <div className="flex flex-row flex-wrap sm:mt-10 mt-6">
                     <img src={apple} alt="google_play" className="w-[128.86px] h-[42.05px] object-contain mr-5 cursor-pointer" />

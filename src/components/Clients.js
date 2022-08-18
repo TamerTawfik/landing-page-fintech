@@ -1,6 +1,7 @@
-import { clients } from "../constants";
-import styles from "../style";
 import { AnimationOnScroll } from 'react-animation-on-scroll';
+import styles from "../style";
+//import static data
+import { clients } from "../constants";
 
 const Clients = () => (
     <AnimationOnScroll animateIn="animate__fadeIn" duration={5}>

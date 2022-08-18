@@ -1,6 +1,6 @@
-import styles from "../style";
-import Button from "./Button";
 import { AnimationOnScroll } from 'react-animation-on-scroll';
+import Button from "./Button";
+import styles from "../style";
 
 const CTA = () => (
     <AnimationOnScroll animateIn="animate__fadeIn" duration={5}>
@@ -10,7 +10,7 @@ const CTA = () => (
                 <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
                     Everything you need to accept card payments and grow your business
                     anywhere on the planet.
-      </p>
+                </p>
             </div>
 
             <div className={`${styles.flexCenter} sm:ml-10 ml-0 sm:mt-0 mt-10`}>

@@ -1,6 +1,7 @@
-import styles from "../style";
-import { arrowUp } from "../assets";
 import { AnimationOnScroll } from 'react-animation-on-scroll';
+import styles from "../style";
+//import photo
+import { arrowUp } from "../assets";
 
 const GetStarted = () => (
     <AnimationOnScroll duration={5} animateIn="animate__heartBeat animate__infinite">

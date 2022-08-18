@@ -1,4 +1,6 @@
+// styles for the landing page
 import styles from './style';
+// sections for the page
 import { Navbar, Hero, Stats, Business, Billing, CardDeal, Testimonials, Clients, CTA, Footer } from './components';
 
 const App = () => (
@@ -28,5 +30,7 @@ const App = () => (
       </div>
     </div>
   </div>
+
 );
+
 export default App;

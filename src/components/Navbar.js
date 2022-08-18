@@ -1,6 +1,7 @@
 import { useState } from "react";
-
+//import photos
 import { close, logo, menu } from "../assets";
+//import static data
 import { navLinks } from "../constants";
 
 const Navbar = () => {
