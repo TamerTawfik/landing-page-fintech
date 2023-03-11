@@ -56,7 +56,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://landing-page-fintech.netlify.app/)
 
-Allegiant and easy to customize landing page. Based on tutorial by <a href="https://www.youtube.com/c/JavaScriptMastery/featured"><strong>JavaScript Mastery »</strong></a>
+Elegant  and easy to customize landing page. Based on tutorial by <a href="https://www.youtube.com/c/JavaScriptMastery/featured"><strong>JavaScript Mastery »</strong></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
